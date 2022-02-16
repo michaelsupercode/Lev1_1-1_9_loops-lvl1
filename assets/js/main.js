@@ -5,7 +5,6 @@ for (i = 0; i <= 10; i++) {
 }
 
 //Lev1_2//
-
 let numarray = []
 for (i = 0; i <= 10; i++) {
     console.log(i);
